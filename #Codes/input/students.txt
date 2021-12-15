@@ -1,0 +1,15 @@
+U101,Janet,Jackson,CSC,30
+U102,Jill,Jillson,CSC,20
+U103,James,Jameson,BU,20
+U104,Kyle,Kyley,CSC,31
+U104,Sammie,Haggar,CSC,20
+U104,Bob,Segar,CSC,40
+U104,Patti,Melt,BU,40
+U104,SpongeBob,SquarePants,CSC,12
+U104,Patric,Star,CSC,32
+U104,Pearl,Krabs,BU,32
+U104,Larry,Lobster,CSC,21
+U104,Sandy,Cheeks,CSC,39
+U104,Squid,Ward,CSC,28
+U104,Mrs,Puff,CSC,29
+U104,Gary,Snail,CSC,30
